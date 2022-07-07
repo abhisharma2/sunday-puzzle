@@ -1,0 +1,25 @@
+{
+  "name": "sunday-puzzle",
+  "version": "1.0.0",
+  "description": "Slackbot for NPR Sunday Puzzle question & answer",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/abhisharma2/sunday-puzzle.git"
+  },
+  "keywords": [
+    "Slack",
+    "Slackbot",
+    "Sunday",
+    "Puzzle"
+  ],
+  "author": "Abhi Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abhisharma2/sunday-puzzle/issues"
+  },
+  "homepage": "https://github.com/abhisharma2/sunday-puzzle#readme"
+}
